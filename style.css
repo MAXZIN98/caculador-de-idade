@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+    color: blueviolet;
+}
+
+h3 {
+    text-align: center;
+    color: blueviolet;
+}
+
+#ano {
+    display: block;
+    margin: auto;
+    padding: auto;
+}
+
+#butao {
+    text-align: center;
+}
+
+#resultado {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
